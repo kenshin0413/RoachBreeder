@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BEC78075555CED160745B3DC6D8B395B5A2D0170",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BEC78075555CED160745B3DC6D8B395B5A2D0170" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E35B1B96-CDBE-4E61-9D1B-4F04E3E28875",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BEC78075555CED160745B3DC6D8B395B5A2D0170" : "RoachBreeder\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RoachBreeder",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RoachBreeder\/RoachBreeder.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:kenshin0413\/RoachBreeder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BEC78075555CED160745B3DC6D8B395B5A2D0170"
+    }
+  ]
+}
