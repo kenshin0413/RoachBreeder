@@ -66,3 +66,13 @@ fastlane/test_output
 
 # Xcode build artifacts
 DerivedData/
+**/.derived-data-log-*
+
+# Local design and QA artifacts
+/DesignArchive/
+/roachbreeder-*.png
+/audit-screenshots/
+/RoachBreeder/build/
+
+# Superseded, unassigned app icon exports kept only as local references
+**/gokiburi_zoushoku_keikaku_final_1024_no_black_corners*.png
