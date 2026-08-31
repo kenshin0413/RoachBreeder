@@ -1,0 +1,4426 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "……" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "……"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "……"
+          }
+        }
+      }
+    },
+    "%@ ・ %@cm" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ · %2$@ cm"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ ・ %2$@cm"
+          }
+        }
+      }
+    },
+    "%@ / %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ / %2$@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ / %2$@"
+          }
+        }
+      }
+    },
+    "%@ %lld個" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ ×%2$lld"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %2$lld個"
+          }
+        }
+      }
+    },
+    "%@「%@」を獲得。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obtained %2$@ (%1$@)."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@「%2$@」を獲得。"
+          }
+        }
+      }
+    },
+    "%@cm" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ cm"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@cm"
+          }
+        }
+      }
+    },
+    "%@cmの個体を確認。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spotted a %@ cm roach."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@cmの個体を確認。"
+          }
+        }
+      }
+    },
+    "%@の姿が見えなくなった。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ is no longer in the colony."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@の姿が見えなくなった。"
+          }
+        }
+      }
+    },
+    "%@は本日終了" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No %@ uses left today"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@は本日終了"
+          }
+        }
+      }
+    },
+    "%@を今日もう1回使えます" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You can use %@ one more time today"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@を今日もう1回使えます"
+          }
+        }
+      }
+    },
+    "%@を今日もう1回使えるようになった。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Granted one extra %@ use for today."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@を今日もう1回使えるようになった。"
+          }
+        }
+      }
+    },
+    "%@を引いた" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drew %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@を引いた"
+          }
+        }
+      }
+    },
+    "%@を置いた" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Placed %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@を置いた"
+          }
+        }
+      }
+    },
+    "%@を追跡対象にした。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Started tracking %@."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@を追跡対象にした。"
+          }
+        }
+      }
+    },
+    "%@倍" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@×"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@倍"
+          }
+        }
+      }
+    },
+    "%@日" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ days"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@日"
+          }
+        }
+      }
+    },
+    "%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        }
+      }
+    },
+    "%lld%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld%2$@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld%2$@"
+          }
+        }
+      }
+    },
+    "%lld%%" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld%%"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld%%"
+          }
+        }
+      }
+    },
+    "%lld個" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld items"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld個"
+          }
+        }
+      }
+    },
+    "%lld匹" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld roaches"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld匹"
+          }
+        }
+      }
+    },
+    "%lld匹から%lld匹になった。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The colony grew from %1$lld to %2$lld roaches."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld匹から%2$lld匹になった。"
+          }
+        }
+      }
+    },
+    "%lld枚" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld tickets"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld枚"
+          }
+        }
+      }
+    },
+    "1連" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Draw 1"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1連"
+          }
+        }
+      }
+    },
+    "2センチほどの禁断の隠れ家。入った瞬間だけ部屋の空気が変わる。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A forbidden hideout about 2 centimeters long. The atmosphere in the room changes the moment you enter."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2センチほどの禁断の隠れ家。入った瞬間だけ部屋の空気が変わる。"
+          }
+        }
+      }
+    },
+    "10個をまとめて獲得" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get 10 rewards at once"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10個をまとめて獲得"
+          }
+        }
+      }
+    },
+    "10個獲得。最高レア度は%@。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obtained 10 rewards. Highest rarity: %@."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10個獲得。最高レア度は%@。"
+          }
+        }
+      }
+    },
+    "10連" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Draw 10"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10連"
+          }
+        }
+      }
+    },
+    "10連ガチャを引いた" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Completed a 10× Gacha draw"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10連ガチャを引いた"
+          }
+        }
+      }
+    },
+    "10連結果" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10× Results"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10連結果"
+          }
+        }
+      }
+    },
+    "AD REWARD" : {
+
+    },
+    "App Storeでアップデート" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update on the App Store"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Storeでアップデート"
+          }
+        }
+      }
+    },
+    "BGM MIXER" : {
+      "comment" : "The name of the BGM Mixer app.",
+      "isCommentAutoGenerated" : true
+    },
+    "COLONY AUDIO" : {
+      "comment" : "The name of the BGM Mixer app.",
+      "isCommentAutoGenerated" : true
+    },
+    "CONFIDENTIAL PROJECT" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CONFIDENTIAL PROJECT"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CONFIDENTIAL PROJECT"
+          }
+        }
+      }
+    },
+    "DAILY BONUS" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DAILY BONUS"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DAILY BONUS"
+          }
+        }
+      }
+    },
+    "Gガチャ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gacha"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gガチャ"
+          }
+        }
+      }
+    },
+    "Gガチャチケット +1" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gacha Ticket +1"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gガチャチケット +1"
+          }
+        }
+      }
+    },
+    "Gガチャチケットを1枚受け取った。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Received 1 Gacha Ticket."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gガチャチケットを1枚受け取った。"
+          }
+        }
+      }
+    },
+    "Gガチャチケットを1枚獲得" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Received 1 Gacha Ticket"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gガチャチケットを1枚獲得"
+          }
+        }
+      }
+    },
+    "Gガチャチケットを1枚獲得しました" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You received 1 Gacha Ticket."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gガチャチケットを1枚獲得しました"
+          }
+        }
+      }
+    },
+    "NOW PLAYING" : {
+      "comment" : "A label displayed in the corner of the BGM player sheet.",
+      "isCommentAutoGenerated" : true
+    },
+    "Pause BGM" : {
+      "comment" : "A label for a button that pauses BGM playback.",
+      "isCommentAutoGenerated" : true
+    },
+    "PAUSED" : {
+      "comment" : "A label displayed in the BGM player sheet.",
+      "isCommentAutoGenerated" : true
+    },
+    "Play BGM" : {
+      "comment" : "A button that plays BGM.",
+      "isCommentAutoGenerated" : true
+    },
+    "PROJECT ACTIVE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PROJECT ACTIVE"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PROJECT ACTIVE"
+          }
+        }
+      }
+    },
+    "SELECT TRACK" : {
+      "comment" : "A label displayed above a list of BGM tracks.",
+      "isCommentAutoGenerated" : true
+    },
+    "TICKETS" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TICKETS"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TICKETS"
+          }
+        }
+      }
+    },
+    "x%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "x%lld"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "x%lld"
+          }
+        }
+      }
+    },
+    "アップデートが必要です" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update Required"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アップデートが必要です"
+          }
+        }
+      }
+    },
+    "あとで" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Later"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あとで"
+          }
+        }
+      }
+    },
+    "オス" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Male"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "オス"
+          }
+        }
+      }
+    },
+    "お菓子の袋の破片" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Snack Wrapper"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お菓子の袋の破片"
+          }
+        }
+      }
+    },
+    "ゴキブリ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Roach"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ゴキブリ"
+          }
+        }
+      }
+    },
+    "ゴキブリのいるスペースにタップで光を当てる" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap inside the colony to shine the light"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ゴキブリのいるスペースにタップで光を当てる"
+          }
+        }
+      }
+    },
+    "ゴキブリのいるスペースにタップで水をおく" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap inside the colony to add water"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ゴキブリのいるスペースにタップで水をおく"
+          }
+        }
+      }
+    },
+    "ゴキブリのいるスペースにタップで餌をおく" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap inside the colony to place food"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ゴキブリのいるスペースにタップで餌をおく"
+          }
+        }
+      }
+    },
+    "ゴキブリホイホイ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Roach Trap"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ゴキブリホイホイ"
+          }
+        }
+      }
+    },
+    "ゴキブリをタップで個体ステータスを見る" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap a roach to view its status"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ゴキブリをタップで個体ステータスを見る"
+          }
+        }
+      }
+    },
+    "ゴキブリをタップで詳細を表示" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap a roach for details"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ゴキブリをタップで詳細を表示"
+          }
+        }
+      }
+    },
+    "ゴキブリ個体" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Roach"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ゴキブリ個体"
+          }
+        }
+      }
+    },
+    "ゴキブリ増殖計画、起動中" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Roach Breeder, launching"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ゴキブリ増殖計画、起動中"
+          }
+        }
+      }
+    },
+    "ゴキブリ育成" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Roach Colony"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ゴキブリ育成"
+          }
+        }
+      }
+    },
+    "ここは重なりすぎて置けない" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Too much overlap to place it here"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ここは重なりすぎて置けない"
+          }
+        }
+      }
+    },
+    "この個体が死ぬまで、成長・食事・生存日数を記録します。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Track this roach’s growth, meals, and lifespan."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この個体が死ぬまで、成長・食事・生存日数を記録します。"
+          }
+        }
+      }
+    },
+    "この個体に決める" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose This Roach"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この個体に決める"
+          }
+        }
+      }
+    },
+    "この気配は、普通じゃない" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Something unusual is stirring"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この気配は、普通じゃない"
+          }
+        }
+      }
+    },
+    "この部屋の運命を、1回でひっくり返せ。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One draw could transform the whole colony."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この部屋の運命を、1回でひっくり返せ。"
+          }
+        }
+      }
+    },
+    "サイズ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Size"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サイズ"
+          }
+        }
+      }
+    },
+    "すき間に群れを発見" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Colony Discovered"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すき間に群れを発見"
+          }
+        }
+      }
+    },
+    "すき間の奥へ餌を差し入れた。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Placed food deep inside the crevice."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すき間の奥へ餌を差し入れた。"
+          }
+        }
+      }
+    },
+    "すき間の巣" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crevice Colony"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すき間の巣"
+          }
+        }
+      }
+    },
+    "すき間を変更" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Room Changed"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すき間を変更"
+          }
+        }
+      }
+    },
+    "すき間を拡大中" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crevice Zoomed In"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すき間を拡大中"
+          }
+        }
+      }
+    },
+    "デイリーチケット" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daily Ticket"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "デイリーチケット"
+          }
+        }
+      }
+    },
+    "テスト版" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Test Build"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "テスト版"
+          }
+        }
+      }
+    },
+    "ノーマル" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Normal"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ノーマル"
+          }
+        }
+      }
+    },
+    "プラスチックの破片" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plastic Shard"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プラスチックの破片"
+          }
+        }
+      }
+    },
+    "ボトルキャップ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bottle Cap"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ボトルキャップ"
+          }
+        }
+      }
+    },
+    "まだ結果はありません。今日の1回を引くとここに残ります。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No results yet. Your draws will appear here."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "まだ結果はありません。今日の1回を引くとここに残ります。"
+          }
+        }
+      }
+    },
+    "まだ記録がありません" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Records Yet"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "まだ記録がありません"
+          }
+        }
+      }
+    },
+    "メス" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Female"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メス"
+          }
+        }
+      }
+    },
+    "やめる" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "やめる"
+          }
+        }
+      }
+    },
+    "レア" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rare"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "レア"
+          }
+        }
+      }
+    },
+    "レイアウト編集" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Layout"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "レイアウト編集"
+          }
+        }
+      }
+    },
+    "レビューする" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Write a Review"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "レビューする"
+          }
+        }
+      }
+    },
+    "一気に散らす" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scatter"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一気に散らす"
+          }
+        }
+      }
+    },
+    "下に潜れる薄い隠れ家。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A thin hideout that you can hide under."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下に潜れる薄い隠れ家。"
+          }
+        }
+      }
+    },
+    "世話、繁殖、成長記録が自動で残ります。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Care, breeding, and growth are logged automatically."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "世話、繁殖、成長記録が自動で残ります。"
+          }
+        }
+      }
+    },
+    "中で何かが暴れている" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Something is breaking inside"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中で何かが暴れている"
+          }
+        }
+      }
+    },
+    "丸い影の中に潜れる隠れ家。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A hideout where you can hide in the round shadows."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "丸い影の中に潜れる隠れ家。"
+          }
+        }
+      }
+    },
+    "乳白色の個体が眠る、異様に白い卵鞘。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An unusually white egg sac in which a milky white individual sleeps."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "乳白色の個体が眠る、異様に白い卵鞘。"
+          }
+        }
+      }
+    },
+    "今のゴキブリ部屋をそのまま画像にします。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create an image of your current colony."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今のゴキブリ部屋をそのまま画像にします。"
+          }
+        }
+      }
+    },
+    "今後のアップデートの参考に、感想を聞かせてください。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please let us know your thoughts for future updates."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今後のアップデートの参考に、感想を聞かせてください。"
+          }
+        }
+      }
+    },
+    "今日は終了" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done for Today"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日は終了"
+          }
+        }
+      }
+    },
+    "今日もすき間の奥で生存中" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alive and hiding in the crevice"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日もすき間の奥で生存中"
+          }
+        }
+      }
+    },
+    "伝説" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Legendary"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "伝説"
+          }
+        }
+      }
+    },
+    "何が出るかは、開くまで分からない" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You don't know what you'll get until you open it."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "何が出るかは、開くまで分からない"
+          }
+        }
+      }
+    },
+    "使用中" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Active"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用中"
+          }
+        }
+      }
+    },
+    "健康" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Healthy"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "健康"
+          }
+        }
+      }
+    },
+    "傷黒" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scarred Black"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "傷黒"
+          }
+        }
+      }
+    },
+    "傷黒の卵鞘" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scarred Black Egg Case"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "傷黒の卵鞘"
+          }
+        }
+      }
+    },
+    "光" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Light"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "光"
+          }
+        }
+      }
+    },
+    "光に反応して散った" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The colony scattered from the light"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "光に反応して散った"
+          }
+        }
+      }
+    },
+    "光を当てた" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shined the light"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "光を当てた"
+          }
+        }
+      }
+    },
+    "全%lld種" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All %lld"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全%lld種"
+          }
+        }
+      }
+    },
+    "全身が金色の伝説個体が眠る。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A legendary individual with a golden body sleeps."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全身が金色の伝説個体が眠る。"
+          }
+        }
+      }
+    },
+    "共有" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "共有"
+          }
+        }
+      }
+    },
+    "共有用スクショ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share Snapshot"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "共有用スクショ"
+          }
+        }
+      }
+    },
+    "共有画像を作れませんでした" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t create the share image"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "共有画像を作れませんでした"
+          }
+        }
+      }
+    },
+    "共有画像を保存できませんでした" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t save the share image"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "共有画像を保存できませんでした"
+          }
+        }
+      }
+    },
+    "最大サイズ更新" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Size Record"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最大サイズ更新"
+          }
+        }
+      }
+    },
+    "最大群れ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Largest Colony"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最大群れ"
+          }
+        }
+      }
+    },
+    "最大記録" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Record Size"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最大記録"
+          }
+        }
+      }
+    },
+    "最新版 %@ に更新してから、飼育を続けてください。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update to version %@ to continue raising your colony."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最新版 %@ に更新してから、飼育を続けてください。"
+          }
+        }
+      }
+    },
+    "最近の結果" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recent Results"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最近の結果"
+          }
+        }
+      }
+    },
+    "最長生存" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Longest Lifespan"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最長生存"
+          }
+        }
+      }
+    },
+    "最高 %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Best: %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最高 %@"
+          }
+        }
+      }
+    },
+    "冷蔵庫下" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Under the Fridge"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "冷蔵庫下"
+          }
+        }
+      }
+    },
+    "切れた配線" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Broken Cable"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切れた配線"
+          }
+        }
+      }
+    },
+    "初回無料" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "First Draw Free"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "初回無料"
+          }
+        }
+      }
+    },
+    "削除" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "削除"
+          }
+        }
+      }
+    },
+    "動画広告の視聴完了後、Gガチャチケットを1枚受け取れます。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watch the full video to receive 1 Gacha Ticket."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "動画広告の視聴完了後、Gガチャチケットを1枚受け取れます。"
+          }
+        }
+      }
+    },
+    "動画広告の視聴完了後、今日だけ%@をもう1回使えるようになります。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watch the full video to use %@ one more time today."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "動画広告の視聴完了後、今日だけ%@をもう1回使えるようになります。"
+          }
+        }
+      }
+    },
+    "動画広告を見てGガチャチケットを1枚受け取った。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watched a video and received 1 Gacha Ticket."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "動画広告を見てGガチャチケットを1枚受け取った。"
+          }
+        }
+      }
+    },
+    "動画視聴後にGガチャチケットを受け取れます" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watch a video to receive 1 Gacha Ticket"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "動画視聴後にGガチャチケットを受け取れます"
+          }
+        }
+      }
+    },
+    "匹" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "roaches"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "匹"
+          }
+        }
+      }
+    },
+    "卵鞘を発見" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Egg Case Discovered"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "卵鞘を発見"
+          }
+        }
+      }
+    },
+    "卵鞘記録" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Most Egg Cases"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "卵鞘記録"
+          }
+        }
+      }
+    },
+    "受け取る" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collect"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "受け取る"
+          }
+        }
+      }
+    },
+    "古いレシート" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Old Receipt"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "古いレシート"
+          }
+        }
+      }
+    },
+    "台所の棚裏" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Behind the Kitchen Shelf"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "台所の棚裏"
+          }
+        }
+      }
+    },
+    "同じレア度は、カテゴリ内で同じ確率。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The same rarity has the same probability within a category."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "同じレア度は、カテゴリ内で同じ確率。"
+          }
+        }
+      }
+    },
+    "名なし" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unnamed"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名なし"
+          }
+        }
+      }
+    },
+    "名なしの個体" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unnamed Roach"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名なしの個体"
+          }
+        }
+      }
+    },
+    "名前つきが生存中" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A named roach is still alive"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前つきが生存中"
+          }
+        }
+      }
+    },
+    "名前つき個体" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Named Roach"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前つき個体"
+          }
+        }
+      }
+    },
+    "名前をつけられます" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Can be named"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前をつけられます"
+          }
+        }
+      }
+    },
+    "名前を入力" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter a name"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前を入力"
+          }
+        }
+      }
+    },
+    "名前を持てる個体は一匹だけ。成長と記録を追いかけます。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only one roach can be named at a time. Its growth and records will be tracked."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前を持てる個体は一匹だけ。成長と記録を追いかけます。"
+          }
+        }
+      }
+    },
+    "名前を更新" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update Name"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前を更新"
+          }
+        }
+      }
+    },
+    "和室の端に棲みついた雰囲気。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An atmosphere that has settled at the edge of a Japanese-style room."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "和室の端に棲みついた雰囲気。"
+          }
+        }
+      }
+    },
+    "図鑑" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Records"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "図鑑"
+          }
+        }
+      }
+    },
+    "埃だまり" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dust Pile"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "埃だまり"
+          }
+        }
+      }
+    },
+    "埃っぽい影ができる、柔らかい隠れ家。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A soft hideout with dusty shadows."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "埃っぽい影ができる、柔らかい隠れ家。"
+          }
+        }
+      }
+    },
+    "増殖" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BREEDER"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "増殖"
+          }
+        }
+      }
+    },
+    "増殖フェーズ開始" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BREEDING STARTED"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "増殖フェーズ開始"
+          }
+        }
+      }
+    },
+    "壁際を走る個体が集まりやすい。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Individuals running along the wall tend to gather."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "壁際を走る個体が集まりやすい。"
+          }
+        }
+      }
+    },
+    "変更する" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変更する"
+          }
+        }
+      }
+    },
+    "奥が見えない黒い隠れ家。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A black hideout where you can't see inside."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "奥が見えない黒い隠れ家。"
+          }
+        }
+      }
+    },
+    "奥行きがある暗い避難場所。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A deep, dark shelter."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "奥行きがある暗い避難場所。"
+          }
+        }
+      }
+    },
+    "安心" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shelter"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安心"
+          }
+        }
+      }
+    },
+    "完了" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完了"
+          }
+        }
+      }
+    },
+    "履歴" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "History"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "履歴"
+          }
+        }
+      }
+    },
+    "布切れ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cloth Scrap"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "布切れ"
+          }
+        }
+      }
+    },
+    "幼虫" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nymph"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "幼虫"
+          }
+        }
+      }
+    },
+    "広告で+1回" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ad: +1 Use"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "広告で+1回"
+          }
+        }
+      }
+    },
+    "広告でチケット1枚" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ad: 1 Gacha Ticket"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "広告でチケット1枚"
+          }
+        }
+      }
+    },
+    "広告の読み込みに失敗しました" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t load the ad"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "広告の読み込みに失敗しました"
+          }
+        }
+      }
+    },
+    "広告リワード" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ad Reward"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "広告リワード"
+          }
+        }
+      }
+    },
+    "広告を準備中" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preparing Ad"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "広告を準備中"
+          }
+        }
+      }
+    },
+    "広告を準備中です" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preparing the ad"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "広告を準備中です"
+          }
+        }
+      }
+    },
+    "広告を表示できませんでした" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t show the ad"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "広告を表示できませんでした"
+          }
+        }
+      }
+    },
+    "広告を見て%@を追加しますか？" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watch an ad for +1 %@ use?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "広告を見て%@を追加しますか？"
+          }
+        }
+      }
+    },
+    "広告を見てチケットを獲得しますか？" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watch an ad for 1 Gacha Ticket?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "広告を見てチケットを獲得しますか？"
+          }
+        }
+      }
+    },
+    "広告を見る" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watch Ad"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "広告を見る"
+          }
+        }
+      }
+    },
+    "広告を読み込み中です" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading the ad"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "広告を読み込み中です"
+          }
+        }
+      }
+    },
+    "広告を読み込んでいます。少し待ってからもう一度押してください。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The ad is still loading. Please try again shortly."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "広告を読み込んでいます。少し待ってからもう一度押してください。"
+          }
+        }
+      }
+    },
+    "床に小さな水たまりを作った。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I made a small puddle on the floor."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "床に小さな水たまりを作った。"
+          }
+        }
+      }
+    },
+    "床に貼り付いた薄い障害物。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A thin obstacle stuck to the floor."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "床に貼り付いた薄い障害物。"
+          }
+        }
+      }
+    },
+    "引く" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Draw"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "引く"
+          }
+        }
+      }
+    },
+    "当たったスキンはここから切り替え。共有スクショにも反映されます。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Switch unlocked room skins here. Your selection also appears in shared images."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当たったスキンはここから切り替え。共有スクショにも反映されます。"
+          }
+        }
+      }
+    },
+    "成虫" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adult"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "成虫"
+          }
+        }
+      }
+    },
+    "成長" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Growth"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "成長"
+          }
+        }
+      }
+    },
+    "所持 %lld枚" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld Tickets"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所持 %lld枚"
+          }
+        }
+      }
+    },
+    "抽選中" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drawing"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "抽選中"
+          }
+        }
+      }
+    },
+    "排水管の影" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drainpipe Shadow"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "排水管の影"
+          }
+        }
+      }
+    },
+    "推し個体" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favorite Roach"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推し個体"
+          }
+        }
+      }
+    },
+    "推し個体の記録終了" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favorite Roach Lost"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推し個体の記録終了"
+          }
+        }
+      }
+    },
+    "推し個体を決める" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose a Favorite"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推し個体を決める"
+          }
+        }
+      }
+    },
+    "推し個体を記録" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favorite Roach Selected"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推し個体を記録"
+          }
+        }
+      }
+    },
+    "推し個体を追跡中" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tracking Favorite Roach"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推し個体を追跡中"
+          }
+        }
+      }
+    },
+    "推定コロニー数" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ESTIMATED COLONY"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推定コロニー数"
+          }
+        }
+      }
+    },
+    "日記" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Journal"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日記"
+          }
+        }
+      }
+    },
+    "暗いすき間に新しい卵鞘が置かれている。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A new egg sac is placed in a dark crevice."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暗いすき間に新しい卵鞘が置かれている。"
+          }
+        }
+      }
+    },
+    "暗い影ができて群れが落ち着く。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A dark shadow forms and the flock calms down."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暗い影ができて群れが落ち着く。"
+          }
+        }
+      }
+    },
+    "木片" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wood Chip"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "木片"
+          }
+        }
+      }
+    },
+    "未発見" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Undiscovered"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未発見"
+          }
+        }
+      }
+    },
+    "机と棚のすき間" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desk Crevice"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "机と棚のすき間"
+          }
+        }
+      }
+    },
+    "机と棚の奥で%lld匹が動きはじめた。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld roaches began moving behind the desk and shelf."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "机と棚の奥で%lld匹が動きはじめた。"
+          }
+        }
+      }
+    },
+    "歴代最速" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fastest Recorded"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "歴代最速"
+          }
+        }
+      }
+    },
+    "死亡" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dead"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "死亡"
+          }
+        }
+      }
+    },
+    "段ボール置き場" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cardboard Stack"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "段ボール置き場"
+          }
+        }
+      }
+    },
+    "殻が開きはじめた" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The shell has begun to open"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "殻が開きはじめた"
+          }
+        }
+      }
+    },
+    "毎日21時に世話通知" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daily Care Reminder at 9:00 PM"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "毎日21時に世話通知"
+          }
+        }
+      }
+    },
+    "毎日21時の通知を設定しました" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daily reminder set for 9:00 PM"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "毎日21時の通知を設定しました"
+          }
+        }
+      }
+    },
+    "毎日のログインで1枚受け取れます" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log in each day to receive one ticket"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "毎日のログインで1枚受け取れます"
+          }
+        }
+      }
+    },
+    "気配が集まっている" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "signs are gathering"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "気配が集まっている"
+          }
+        }
+      }
+    },
+    "水" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Water"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "水"
+          }
+        }
+      }
+    },
+    "水ゲージ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hydration"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "水ゲージ"
+          }
+        }
+      }
+    },
+    "水たまりを作った" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Added water"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "水たまりを作った"
+          }
+        }
+      }
+    },
+    "水を補給" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hydrate"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "水を補給"
+          }
+        }
+      }
+    },
+    "水を足した" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Added Water"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "水を足した"
+          }
+        }
+      }
+    },
+    "水分" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hydration"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "水分"
+          }
+        }
+      }
+    },
+    "油染みと甘い匂いが残る、群れが寄りやすい破片。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Debris with oil stains and a sweet smell that attracts flocks."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "油染みと甘い匂いが残る、群れが寄りやすい破片。"
+          }
+        }
+      }
+    },
+    "油膜" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oil Slick"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "油膜"
+          }
+        }
+      }
+    },
+    "油膜の卵鞘" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oil Slick Egg Case"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "油膜の卵鞘"
+          }
+        }
+      }
+    },
+    "深い赤茶色の個体が眠る卵鞘。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An egg pod in which a deep reddish-brown individual sleeps."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "深い赤茶色の個体が眠る卵鞘。"
+          }
+        }
+      }
+    },
+    "湿った暗さが強い部屋スキン。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Room skin with strong damp darkness."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "湿った暗さが強い部屋スキン。"
+          }
+        }
+      }
+    },
+    "漆黒" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jet Black"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "漆黒"
+          }
+        }
+      }
+    },
+    "漆黒の卵鞘" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jet Black Egg Case"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "漆黒の卵鞘"
+          }
+        }
+      }
+    },
+    "激レア" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Super Rare"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "激レア"
+          }
+        }
+      }
+    },
+    "濡れたような黒い光沢を持つ血統。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A bloodline with a wet black luster."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "濡れたような黒い光沢を持つ血統。"
+          }
+        }
+      }
+    },
+    "瀕死" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Critical"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "瀕死"
+          }
+        }
+      }
+    },
+    "特殊な卵鞘" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rare Egg Case"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "特殊な卵鞘"
+          }
+        }
+      }
+    },
+    "状態" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Condition"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "状態"
+          }
+        }
+      }
+    },
+    "狙えるラインナップ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Available Rewards"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "狙えるラインナップ"
+          }
+        }
+      }
+    },
+    "現在の名前つき" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Currently Named"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "現在の名前つき"
+          }
+        }
+      }
+    },
+    "生存" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Age"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生存"
+          }
+        }
+      }
+    },
+    "生活感が強い薄型の隠れ家。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A thin hideaway with a strong sense of life."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生活感が強い薄型の隠れ家。"
+          }
+        }
+      }
+    },
+    "画像を共有する" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share Image"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "画像を共有する"
+          }
+        }
+      }
+    },
+    "画面から目を離すな" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Don't take your eyes off the screen"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "画面から目を離すな"
+          }
+        }
+      }
+    },
+    "畳の端" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tatami Edge"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "畳の端"
+          }
+        }
+      }
+    },
+    "白い傷模様を持つ黒い個体が眠る。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A black individual with white scars sleeps."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "白い傷模様を持つ黒い個体が眠る。"
+          }
+        }
+      }
+    },
+    "白く濁った薄い破片。床の汚れに紛れて潜り込める。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A thin cloudy white fragment. It can hide under the dirt on the floor."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "白く濁った薄い破片。床の汚れに紛れて潜り込める。"
+          }
+        }
+      }
+    },
+    "白化" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Albino"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "白化"
+          }
+        }
+      }
+    },
+    "白化の卵鞘" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Albino Egg Case"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "白化の卵鞘"
+          }
+        }
+      }
+    },
+    "目指せ！" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TARGET"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目指せ！"
+          }
+        }
+      }
+    },
+    "移動する隠れ家をタップ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap a hideout to move it"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移動する隠れ家をタップ"
+          }
+        }
+      }
+    },
+    "移動先をタップ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap a destination"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移動先をタップ"
+          }
+        }
+      }
+    },
+    "移動先をタップ。削除もできます" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap a destination, or delete the hideout"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移動先をタップ。削除もできます"
+          }
+        }
+      }
+    },
+    "空き箱" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Empty Box"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空き箱"
+          }
+        }
+      }
+    },
+    "空気が歪んでいる" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "the air is distorted"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "空気が歪んでいる"
+          }
+        }
+      }
+    },
+    "粘着テープ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sticky Tape"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粘着テープ"
+          }
+        }
+      }
+    },
+    "紙くず" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paper Scrap"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "紙くず"
+          }
+        }
+      }
+    },
+    "繁殖" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Breed"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "繁殖"
+          }
+        }
+      }
+    },
+    "繁殖していそうな密度の高いスキン。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A dense skin that seems to be breeding."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "繁殖していそうな密度の高いスキン。"
+          }
+        }
+      }
+    },
+    "群れが一斉に奥へ散った。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The colony scattered into the shadows."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "群れが一斉に奥へ散った。"
+          }
+        }
+      }
+    },
+    "群れが増えた" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Colony Grew"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "群れが増えた"
+          }
+        }
+      }
+    },
+    "腹を満たす" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feed"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "腹を満たす"
+          }
+        }
+      }
+    },
+    "観察中" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Observing"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "観察中"
+          }
+        }
+      }
+    },
+    "観察日記" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Observation Journal"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "観察日記"
+          }
+        }
+      }
+    },
+    "解放" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unlocked"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解放"
+          }
+        }
+      }
+    },
+    "計画" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "計画"
+          }
+        }
+      }
+    },
+    "赤銅" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Red Copper"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "赤銅"
+          }
+        }
+      }
+    },
+    "赤銅の卵鞘" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Red Copper Egg Case"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "赤銅の卵鞘"
+          }
+        }
+      }
+    },
+    "足の速さ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speed"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "足の速さ"
+          }
+        }
+      }
+    },
+    "通常個体" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Common"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通常個体"
+          }
+        }
+      }
+    },
+    "選択解除" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deselect"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選択解除"
+          }
+        }
+      }
+    },
+    "部屋" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Room"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "部屋"
+          }
+        }
+      }
+    },
+    "部屋から隠れ家を取り除いた。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Removed hideout from room."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "部屋から隠れ家を取り除いた。"
+          }
+        }
+      }
+    },
+    "部屋スキン" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Room Skin"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "部屋スキン"
+          }
+        }
+      }
+    },
+    "部屋に「%@」を置いた。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I placed \"%@\" in my room."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "部屋に「%@」を置いた。"
+          }
+        }
+      }
+    },
+    "部屋の中の隠れ家を別の場所へ動かした。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I moved the hideout in the room to another location."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "部屋の中の隠れ家を別の場所へ動かした。"
+          }
+        }
+      }
+    },
+    "部屋を「%@」に切り替えた。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Switched the room to \"%@\"."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "部屋を「%@」に切り替えた。"
+          }
+        }
+      }
+    },
+    "配置編集" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Placement"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "配置編集"
+          }
+        }
+      }
+    },
+    "銀灰色の羽を持つ個体が眠る。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An individual with silver-gray wings sleeps."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "銀灰色の羽を持つ個体が眠る。"
+          }
+        }
+      }
+    },
+    "銀紙" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Foil"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "銀紙"
+          }
+        }
+      }
+    },
+    "銀背" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Silverback"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "銀背"
+          }
+        }
+      }
+    },
+    "銀背の卵鞘" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Silverback Egg Case"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "銀背の卵鞘"
+          }
+        }
+      }
+    },
+    "隠れ家" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hideout"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隠れ家"
+          }
+        }
+      }
+    },
+    "隠れ家・個体・部屋スキン" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hideouts · Roaches · Room Skins"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隠れ家・個体・部屋スキン"
+          }
+        }
+      }
+    },
+    "隠れ家をタップして移動・削除" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap a hideout to move or delete it"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隠れ家をタップして移動・削除"
+          }
+        }
+      }
+    },
+    "隠れ家をタップで移動" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap a hideout to move it"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隠れ家をタップで移動"
+          }
+        }
+      }
+    },
+    "隠れ家を削除" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Hideout"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隠れ家を削除"
+          }
+        }
+      }
+    },
+    "隠れ家を削除した" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hideout removed"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隠れ家を削除した"
+          }
+        }
+      }
+    },
+    "隠れ家を移動" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move Hideout"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隠れ家を移動"
+          }
+        }
+      }
+    },
+    "隠れ家を移動した" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hideout moved"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隠れ家を移動した"
+          }
+        }
+      }
+    },
+    "隠れ家を配置" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hideout Placed"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隠れ家を配置"
+          }
+        }
+      }
+    },
+    "青い光が漏れている" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "blue light is leaking"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "青い光が漏れている"
+          }
+        }
+      }
+    },
+    "食べかすが似合う部屋スキン。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A room skin that looks good with food scraps."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "食べかすが似合う部屋スキン。"
+          }
+        }
+      }
+    },
+    "飼育の手応え、どうですか？" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enjoying Your Colony?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "飼育の手応え、どうですか？"
+          }
+        }
+      }
+    },
+    "餌" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Food"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "餌"
+          }
+        }
+      }
+    },
+    "餌ゲージ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Food"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "餌ゲージ"
+          }
+        }
+      }
+    },
+    "餌や水を置くと、ここに観察ログが残ります。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Place food or water to start your observation log."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "餌や水を置くと、ここに観察ログが残ります。"
+          }
+        }
+      }
+    },
+    "餌をあげてください。今夜も奥で動いています。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your colony is hungry. Something is moving in the shadows."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "餌をあげてください。今夜も奥で動いています。"
+          }
+        }
+      }
+    },
+    "餌をあげるタイミングをバナーで知らせます" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get a notification when it’s time to feed the colony"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "餌をあげるタイミングをバナーで知らせます"
+          }
+        }
+      }
+    },
+    "餌を置いた" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Placed Food"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "餌を置いた"
+          }
+        }
+      }
+    },
+    "黄金" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Golden"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黄金"
+          }
+        }
+      }
+    },
+    "黄金の卵鞘" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Golden Egg Case"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黄金の卵鞘"
+          }
+        }
+      }
+    },
+    "黒い体に青紫の構造色が浮かぶ血統。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A bloodline with a blue-purple structural color on its black body."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黒い体に青紫の構造色が浮かぶ血統。"
+          }
+        }
+      }
+    },
+    "黒い箱" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Black Box"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黒い箱"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.2"
+}

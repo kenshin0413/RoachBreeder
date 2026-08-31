@@ -6,8 +6,46 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		94A100012FE4100000A10001 /* GoogleMobileAds in Frameworks */ = {isa = PBXBuildFile; productRef = 94A100002FE4100000A10001 /* GoogleMobileAds */; };
+		94E922572FE309A600C6A5A7 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = 94E922562FE309A600C6A5A7 /* FirebaseAnalytics */; };
+		950000082FE5000000000001 /* RoachBreederWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 950000022FE5000000000001 /* RoachBreederWidget.swift */; };
+		950000092FE5000000000001 /* WidgetSharedState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 950000052FE5000000000001 /* WidgetSharedState.swift */; };
+		9500000A2FE5000000000001 /* WidgetSharedState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 950000052FE5000000000001 /* WidgetSharedState.swift */; };
+		9500000B2FE5000000000001 /* RoachBreederWidget.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 950000012FE5000000000001 /* RoachBreederWidget.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		950000142FE5000000000001 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 94B37DBC2FDE6E9A00B9D381 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 950000102FE5000000000001;
+			remoteInfo = RoachBreederWidget;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		9500000F2FE5000000000001 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				9500000B2FE5000000000001 /* RoachBreederWidget.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		94B37DC42FDE6E9A00B9D381 /* RoachBreeder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RoachBreeder.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		950000012FE5000000000001 /* RoachBreederWidget.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = RoachBreederWidget.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		950000022FE5000000000001 /* RoachBreederWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoachBreederWidget.swift; sourceTree = "<group>"; };
+		950000032FE5000000000001 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		950000042FE5000000000001 /* RoachBreederWidget.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = RoachBreederWidget.entitlements; sourceTree = "<group>"; };
+		950000052FE5000000000001 /* WidgetSharedState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WidgetSharedState.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -23,6 +61,15 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94A100012FE4100000A10001 /* GoogleMobileAds in Frameworks */,
+				94E922572FE309A600C6A5A7 /* FirebaseAnalytics in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9500000D2FE5000000000001 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -33,6 +80,8 @@
 			isa = PBXGroup;
 			children = (
 				94B37DC62FDE6E9A00B9D381 /* RoachBreeder */,
+				950000072FE5000000000001 /* Shared */,
+				950000062FE5000000000001 /* RoachBreederWidget */,
 				94B37DC52FDE6E9A00B9D381 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -41,8 +90,27 @@
 			isa = PBXGroup;
 			children = (
 				94B37DC42FDE6E9A00B9D381 /* RoachBreeder.app */,
+				950000012FE5000000000001 /* RoachBreederWidget.appex */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		950000062FE5000000000001 /* RoachBreederWidget */ = {
+			isa = PBXGroup;
+			children = (
+				950000022FE5000000000001 /* RoachBreederWidget.swift */,
+				950000032FE5000000000001 /* Info.plist */,
+				950000042FE5000000000001 /* RoachBreederWidget.entitlements */,
+			);
+			path = RoachBreederWidget;
+			sourceTree = "<group>";
+		};
+		950000072FE5000000000001 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				950000052FE5000000000001 /* WidgetSharedState.swift */,
+			);
+			path = Shared;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -55,20 +123,43 @@
 				94B37DC02FDE6E9A00B9D381 /* Sources */,
 				94B37DC12FDE6E9A00B9D381 /* Frameworks */,
 				94B37DC22FDE6E9A00B9D381 /* Resources */,
+				9500000F2FE5000000000001 /* Embed App Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				950000152FE5000000000001 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
 				94B37DC62FDE6E9A00B9D381 /* RoachBreeder */,
 			);
 			name = RoachBreeder;
 			packageProductDependencies = (
+				94A100002FE4100000A10001 /* GoogleMobileAds */,
+				94E922562FE309A600C6A5A7 /* FirebaseAnalytics */,
 			);
 			productName = RoachBreeder;
 			productReference = 94B37DC42FDE6E9A00B9D381 /* RoachBreeder.app */;
 			productType = "com.apple.product-type.application";
+		};
+		950000102FE5000000000001 /* RoachBreederWidget */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 950000132FE5000000000001 /* Build configuration list for PBXNativeTarget "RoachBreederWidget" */;
+			buildPhases = (
+				9500000C2FE5000000000001 /* Sources */,
+				9500000D2FE5000000000001 /* Frameworks */,
+				9500000E2FE5000000000001 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = RoachBreederWidget;
+			packageProductDependencies = (
+			);
+			productName = RoachBreederWidget;
+			productReference = 950000012FE5000000000001 /* RoachBreederWidget.appex */;
+			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
 
@@ -83,6 +174,9 @@
 					94B37DC32FDE6E9A00B9D381 = {
 						CreatedOnToolsVersion = 26.5;
 					};
+					950000102FE5000000000001 = {
+						CreatedOnToolsVersion = 26.5;
+					};
 				};
 			};
 			buildConfigurationList = 94B37DBF2FDE6E9A00B9D381 /* Build configuration list for PBXProject "RoachBreeder" */;
@@ -90,22 +184,35 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				ja,
 				Base,
 			);
 			mainGroup = 94B37DBB2FDE6E9A00B9D381;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				94A100022FE4100000A10001 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */,
+				94E922552FE309A600C6A5A7 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 94B37DC52FDE6E9A00B9D381 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				94B37DC32FDE6E9A00B9D381 /* RoachBreeder */,
+				950000102FE5000000000001 /* RoachBreederWidget */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
 		94B37DC22FDE6E9A00B9D381 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9500000E2FE5000000000001 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -119,10 +226,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				950000092FE5000000000001 /* WidgetSharedState.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9500000C2FE5000000000001 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				950000082FE5000000000001 /* RoachBreederWidget.swift in Sources */,
+				9500000A2FE5000000000001 /* WidgetSharedState.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		950000152FE5000000000001 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 950000102FE5000000000001 /* RoachBreederWidget */;
+			targetProxy = 950000142FE5000000000001 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		94B37DCD2FDE6E9C00B9D381 /* Debug */ = {
@@ -247,62 +372,118 @@
 		94B37DD02FDE6E9C00B9D381 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ADMOB_APP_ID = "ca-app-pub-3940256099942544~1458002511";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CODE_SIGN_ENTITLEMENTS = RoachBreeder/RoachBreeder.entitlements;
+				CURRENT_PROJECT_VERSION = 7;
+				DEVELOPMENT_TEAM = WJNB26R5VS;
 				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = AppInfo.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Roach Outbreak";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.0.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.kenshin.RoachBreeder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		94B37DD12FDE6E9C00B9D381 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ADMOB_APP_ID = "ca-app-pub-2277987033120510~3817495076";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CODE_SIGN_ENTITLEMENTS = RoachBreeder/RoachBreeder.entitlements;
+				CURRENT_PROJECT_VERSION = 7;
+				DEVELOPMENT_TEAM = WJNB26R5VS;
 				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = AppInfo.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Roach Outbreak";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.0.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.kenshin.RoachBreeder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		950000112FE5000000000001 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_ENTITLEMENTS = RoachBreederWidget/RoachBreederWidget.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 7;
+				DEVELOPMENT_TEAM = WJNB26R5VS;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = RoachBreederWidget/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				MARKETING_VERSION = 1.0.3;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kenshin.RoachBreeder.Widget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		950000122FE5000000000001 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_ENTITLEMENTS = RoachBreederWidget/RoachBreederWidget.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 7;
+				DEVELOPMENT_TEAM = WJNB26R5VS;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = RoachBreederWidget/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				MARKETING_VERSION = 1.0.3;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kenshin.RoachBreeder.Widget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -327,7 +508,48 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		950000132FE5000000000001 /* Build configuration list for PBXNativeTarget "RoachBreederWidget" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				950000112FE5000000000001 /* Debug */,
+				950000122FE5000000000001 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		94A100022FE4100000A10001 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/googleads/swift-package-manager-google-mobile-ads.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 12.0.0;
+			};
+		};
+		94E922552FE309A600C6A5A7 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 12.15.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		94A100002FE4100000A10001 /* GoogleMobileAds */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 94A100022FE4100000A10001 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */;
+			productName = GoogleMobileAds;
+		};
+		94E922562FE309A600C6A5A7 /* FirebaseAnalytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 94E922552FE309A600C6A5A7 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAnalytics;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 94B37DBC2FDE6E9A00B9D381 /* Project object */;
 }
